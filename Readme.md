@@ -10,3 +10,6 @@ Put your app in the App folder, the php files belong into the folder app/php.
 * Edit the Server in the config to match your domain.
 * Create the Symlink for your php App. ln -s /etc/nginx/sites-available/nginx.php.conf /etc/nginx/sites-enabled/php.conf
 * restart nginx: service nginx restart
+
+## Source
+<a href="https://hub.docker.com/_/php">Docker Hub</a>
